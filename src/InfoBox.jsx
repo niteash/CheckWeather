@@ -10,8 +10,8 @@ import AcUnitIcon from '@mui/icons-material/AcUnit';
 import WbSunnyIcon from '@mui/icons-material/WbSunny';
 
 export default function InfoBox({ info }) {
-  let INTI_URL =
-    "https://images.unsplash.com/photo-1663774718003-14c125ac0d1a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D";
+//   let INTI_URL =
+//     "https://images.unsplash.com/photo-1663774718003-14c125ac0d1a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D";
 
   const Hot_URL =
     "https://images.unsplash.com/photo-1641994083335-30cef444b6d5?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D";
